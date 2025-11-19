@@ -1,0 +1,149 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    width: 1920px;
+    height: 1205px;
+    background-color: #321A4A;
+}
+header{
+    width: 1600px;
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 36px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.tab{
+    width: 1600px;
+    height: 805px;
+    border-style: solid;
+    border-radius: 16px;
+    padding: 16px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    border-color: white;
+}
+.ta{
+    width: 1250px;
+    height: 630px;
+    background-color: #FDA6D7;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    border-radius:60px ;
+}
+.up{
+    margin-top: 60px;
+}
+.down{
+    margin-top: 30px;
+}
+#try{
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 50px;
+}
+#trh{
+    width: 1000px;
+    height: 250px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+#button{
+    margin-top:50px;
+    height: 50px;
+    width: 200px;
+    font-size: 24px;
+    border-radius: 20px;
+    color: white;
+    background-color: #321A4A;
+}
+h1{
+    color:white;
+}
+
+.tada{
+    width: 1200px;
+    height: 770px;
+    border-style: solid;
+    border-radius: 16px;
+    border-color: white;
+    display: flex;
+    flex-flow: column;
+    justify-self: center;
+    margin-bottom: 110px;
+}
+
+.tada h1{
+    margin-top: 50px;
+    margin-left: 530px;
+}
+
+.tada h2{
+    color: white;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 36px;
+}
+
+#table{
+    width: 800px;
+    height: 490px;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+thead{
+    height: 70px;
+}
+
+.page3{
+    width: 1200px;
+    height: 1450px;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+}
+
+.page3 h1{
+    font-size: 40px;
+    margin: 50px;
+    color: white;
+}
+
+.page3 h2{
+    font-size: 36px;
+    margin: 40px;
+    color: white;
+}
+
+
+
+#NNN{
+    width: 500px;
+    height: 100px;
+    background-color: #FDA6D7;
+    border-radius: 30px;
+}
+
+#log_in{
+    width: 300px;
+    height: 100px;    
+    background-color: #B2FF00;
+    font-size: 36px;
+    border-radius: 30px;
+}
